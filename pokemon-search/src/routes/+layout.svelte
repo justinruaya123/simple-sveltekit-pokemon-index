@@ -4,7 +4,7 @@
 </script>
 
 <AppBar gridColumns="grid-cols-3" slotDefault="place-self-center" slotTrail="place-content-end">
-	<svelte:fragment slot="lead">CaraCaro</svelte:fragment>
+	<svelte:fragment slot="lead">For an interview</svelte:fragment>
 	<h1 class="h1">
 		<span
 			class="bg-gradient-to-br from-red-500 to-yellow-500 bg-clip-text text-transparent box-decoration-clone"
